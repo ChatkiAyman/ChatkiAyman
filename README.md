@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayman Chatki</h1>
-<h3 align="center">I've been interested in computers for as long as I can remember. My passions are running, reading books📚, playing chess♟, philosophy and startup entrepreneurship.</h3>
+<h3 align="center">I've been interested in computers for as long as I can remember. My passions are running🏃‍♂️, reading books📚, playing chess♟, philosophy and startup entrepreneurship.</h3>
 
 - 🌱 I’m currently learning **Software Engineering**
 
